@@ -1,0 +1,4 @@
+name: theback-space-site
+type: static
+publish_dir: .
+build_command: ""
